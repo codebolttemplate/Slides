@@ -1,8 +1,4 @@
- install: |
-      echo "Initializing the application..."
-      npm install 
- start: |
-      echo "Starting the server..."
-      npm run dev
+ install: npm install 
+ start: npm run dev
 
 
