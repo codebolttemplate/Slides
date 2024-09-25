@@ -1,10 +1,11 @@
-appName: SlidesApp
+appName: Slides App
+appUniqueId: codeboltadmin/slidesapp
 description: This app will create slides presentation for you.
 appVersion: 1.0.0
 appRepoUrl: https://github.com/codebolttemplate/Slides
 appIconUrl: https://storage.googleapis.com/codeboltai.appspot.com/agents/8GXuJ6XQv4.png
 appAuthorUserId: codeboltAdmin
-forkedFrom: codeboltAdmin/BaseSlidesApp
+forkedFrom: codeboltadmin/baseslidesapp
 install: 
   steps: 
     - type: shell
