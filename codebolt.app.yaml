@@ -14,7 +14,8 @@ use:
   prerunsteps:
     - type: shell
       command: npm run start
-  defaultagent: codebol_sildes_generator
+  agents:
+    - codebol_sildes_generator
   layout: basic
   appPreview:
     type: web
